@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @SavandiNarmada,  a computer science enthusiast affiliated with the University of Westminster, currently studying at IIT Sri Lanka.
-- 👀 I’m interested in front-end development, web development, and both web and mobile platforms. I enjoy learning new things in these areas.
-- 🌱 I’m currently learning to improve my skills in software engineering and computer science, I want to learn more about the fundamentals of these subjects.
-- 💞️ I'm looking for internship opportunities where I can work with prestigious software companies on difficult projects and apply my technical expertise to come up with workable solutions.
-- 📫 Feel free to connect via email at savandi.narmada@gmail.com or reach out directly at +94 78 675 4237.
+👋 Hi, I’m @SavandiNarmada, a computer science enthusiast affiliated with the University of Westminster, currently studying at IIT Sri Lanka.
+
+👀 I’m interested in front-end development, web development, and both web and mobile platforms. I enjoy learning new things in these areas.
+
+🌱 I’m currently learning to improve my skills in software engineering and computer science, I want to learn more about the fundamentals of these subjects.
+
+💼 I am currently working as an Intern Software Engineer at Ceylon Petroleum Terminal Limited Company.
+
+📚 Additionally, I work as an ICT Tutor at Home Tech Learning Center.
+
+📫 Feel free to connect via email at savandi.narmada@gmail.com or reach out directly at +94 78 675 4237.
 
 
 <!---
